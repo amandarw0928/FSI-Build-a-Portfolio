@@ -1,0 +1,14 @@
+body {
+    background-color: palevioletred;
+}
+h1 {
+    color: purple;
+    text-align: center;
+}
+h2 {
+   color: rgb(65, 9, 65);
+   text-align: center;
+}
+img {
+    border-style: dashed;
+}
